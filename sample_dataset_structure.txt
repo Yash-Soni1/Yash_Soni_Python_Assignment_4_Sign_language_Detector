@@ -1,0 +1,8 @@
+dataset/
+  hello/
+    img_0001.jpg
+    img_0002.jpg
+  thanks/
+  yes/
+  no/
+  sorry/
