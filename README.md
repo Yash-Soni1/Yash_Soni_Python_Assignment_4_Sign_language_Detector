@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```bash
 python capture_dataset.py --out_dir dataset --img_size 160
 ```
-- Press keys 1..5 to switch label (mapping shown in UI)
+- Press keys 0..6 to switch label (mapping shown in UI)
 - Press `c` to capture a frame for current label
 - Press `q` to quit
 
